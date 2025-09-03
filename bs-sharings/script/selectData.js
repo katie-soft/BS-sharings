@@ -28,6 +28,7 @@ const categorySelectData = {
     { name: 'Развитие', value: 'razvitie' },
     { name: 'Сообщество', value: 'blogs' },
     { name: 'Спецпроекты', value: 'specials' },
+    { name: 'Технологии', value: 'tech' },
     { name: 'Тренды', value: 'trendy' },
     { name: 'Шпаргалка', value: 'shpargalka' },
   ],
