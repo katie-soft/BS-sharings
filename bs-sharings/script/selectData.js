@@ -17,6 +17,7 @@ const categorySelectData = {
     { name: 'Вопросы-ответы', value: 'vo' },
     { name: 'Дайджест', value: 'digest' },
     { name: 'Жизнь вне работы', value: 'zvr' },
+    { name: 'Законы', value: 'zakony' },
     { name: 'Новости', value: 'novosti' },
     { name: 'Как есть', value: 'kak-est' },
     { name: 'Календари', value: 'calendars' },
